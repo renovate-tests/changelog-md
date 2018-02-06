@@ -2,7 +2,7 @@
   "name": "changelog-md",
   "version": "0.0.1",
   "dependencies": {
-    "angular": "1.6.5",
+    "angular": "1.6.9",
     "jest": "21.2.1",
     "react": "16.0.0",
     "react-dom": "16.0.0",
