@@ -4,7 +4,7 @@
   "dependencies": {
     "angular": "1.6.5",
     "lerna": "2.5.1",
-    "jest": "21.2.1",
+    "jest": "22.1.4",
     "react": "16.0.0",
     "react-dom": "16.0.0",
     "chalk": "2.0.0"
