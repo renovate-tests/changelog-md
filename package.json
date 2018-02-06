@@ -9,6 +9,7 @@
     "chalk": "2.0.0"
   },
   "renovate": {
-    "extends": ["config:base"]
+    "extends": ["config:base"],
+    "prHourlyLimit": 0
   }
 }
