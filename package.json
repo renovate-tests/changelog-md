@@ -4,7 +4,9 @@
   "dependencies": {
     "angular": "1.6.5",
     "jest": "21.2.1",
-    "react": "16.0.0"
+    "react": "16.0.0",
+    "react-dom": "16.0.0",
+    "chalk": "2.0.0"
   },
   "renovate": {}
 }
